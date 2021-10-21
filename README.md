@@ -1,7 +1,9 @@
 # DownLoadTool
 Tai xuong video tu facebook và Youtobe
 hướng đã cài đạt
+
 bước 1: tải project
+
 bước 2: vô folder DownLoadToolSetUp/Debug/ chọn file setup.exe
 ## tai video tu facebook và youtobe
 bước 1: bạn chỉ cần 1 link từ video từ youtobe hoặc facebook và gán nó vào textbox url và đợi 1 chút để nó xử lý
