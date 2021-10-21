@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadTool", "DownLoadTool\DownLoadTool.csproj", "{E7BC2F7C-028C-43E5-8F8B-524A47D071BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DownLoadToolSetUp", "DownLoadToolSetUp\DownLoadToolSetUp.vdproj", "{5B75F16D-F0C1-4837-A750-7805567B126E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BC2F7C-028C-43E5-8F8B-524A47D071BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BC2F7C-028C-43E5-8F8B-524A47D071BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BC2F7C-028C-43E5-8F8B-524A47D071BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BC2F7C-028C-43E5-8F8B-524A47D071BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B75F16D-F0C1-4837-A750-7805567B126E}.Debug|Any CPU.ActiveCfg = Debug
+		{5B75F16D-F0C1-4837-A750-7805567B126E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FCA07A-E969-433B-B79A-DFCD2231932B}
+	EndGlobalSection
+EndGlobal
